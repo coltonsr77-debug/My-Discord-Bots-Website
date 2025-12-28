@@ -1,6 +1,6 @@
 # Uzi-Discord-Bot-Website
 
-UPDATE: PLEASE use the New Website: https://coltonsr77.pages.dev
+UPDATE: PLEASE use the New Website: https://coltonsr77.net
 
 This website is for my Discord bots.
 
